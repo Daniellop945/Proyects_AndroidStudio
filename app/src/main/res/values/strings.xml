@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Marvel Heros</string>
+    <string name="hero1">Spiderman</string>
+    <string name="description1">
+        Las habilidades de spiderman incluyen
+        fuerza sobrehumana, agilidad, reflejos rapidos y la
+        capacidad de aderirse a las paderes. Tambien cuenta con el sentido aracnido que le permite anticipar el peligro.
+    </string>
+    <string name="hero2">Ironman</string>
+    <string name="description2">
+        Tony Stark es herido en un ataque y
+        es secuestrado por un grupo terrorista.
+        Para salvar su vida, crea una armadura
+        especial impulsada por un reactor arc
+        que se encuentra en su pecho.
+    </string>
+    <string name="hero3">Ghost Raider</string>
+    <string name="description3">
+        La historia de Ghost Rider gira en torno
+        a Johnny Blaze, un talentoso motociclista
+        que vende su alma al demonio Mephisto para
+        salvar la vida de su padre.
+        Como resultado de este pacto diabólico,
+        Blaze se convierte en el Ghost Rider,
+        un ser con una calavera en llamas como
+        cabeza y poseedor de poderes sobrenaturales.
+    </string>
+    <string name="hero4">Doctor Strange</string>
+    <string name="description4">
+        Su nombre real es Stephen Strange, y es un neurocirujano talentoso que, después de un accidente automovilístico que dañó sus manos, busca desesperadamente una cura. Su búsqueda lo lleva al Anciano, un hechicero poderoso que le enseña las artes místicas.
+        Doctor Strange se convierte en el hechicero Supremo del Universo Marvel y protege el mundo de amenazas místicas y dimensionales. Tiene la habilidad de manipular la magia y usar artefactos mágicos, como la Capa de Levitación y el Ojo de Agamotto.
+    </string>
+    <string name="hero5">Hulk</string>
+    <string name="description5">
+        Su nombre real es Bruce Banner,
+        un científico brillante que se
+        convierte en Hulk después de exponerse
+        a una intensa radiación gamma en un
+        accidente de laboratorio.
+        Hulk es conocido por su gran fuerza y
+        resistencia sobrehumanas.
+        Cuando se enfurece, su tamaño y masa
+        muscular aumentan considerablemente,
+        convirtiéndose en una criatura verde
+        gigante con una piel casi indestructible.
+    </string>
+    <string name="hero6">Thor</string>
+    <string name="description6">
+        Es un dios nórdico del trueno.
+        Thor es conocido por su martillo encantado,
+        llamado Mjolnir, que le otorga poderes
+        como controlar el clima y la capacidad de volar.
+    </string>
+    <string name="hero7">Wolverine</string>
+    <string name="description7">
+        Wolverine es un mutante que posee habilidades
+        sobrehumanas. Su característica más distintiva
+        es su esqueleto de adamantium, un metal
+        indestructible, que le fue implantado en un
+        experimento secreto.
+        Este metal recubre sus huesos y garras
+        retráctiles, que son afiladas y mortales.
+        Gracias a su factor de curación, Wolverine
+        se recupera rápidamente de heridas y lesiones,
+        lo que lo hace casi inmune a enfermedades y al
+        envejecimiento.
+    </string>
+</resources>
